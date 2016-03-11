@@ -1,0 +1,6 @@
+{
+  "name": "Heroku PHP",
+  "description": "Una aplicación web PHP básica para Heroku.",
+  "repository": "https://github.com/Egibide-LM2015/heroku-php",
+  "addons": []
+}

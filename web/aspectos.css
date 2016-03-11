@@ -1,0 +1,30 @@
+
+
+
+h1 {
+    color: black;
+    font-family:"Herculanum","zapfino","sans-serif";
+}
+
+h2{
+    color: black;
+    font-family:"Herculanum","zapfino","sans-serif";
+}
+
+p{
+    color:black;
+    font-family: "apple chancery","zapfino","sans-serif";
+    font-size: medium;
+}
+
+body{
+    background-color: tan;
+    background-image: url("skyrim.jpg");
+}
+
+ul{
+    color:black;
+    font-family: "apple chancery","zapfino","sans-serif";
+    font-size: medium;
+}
+
